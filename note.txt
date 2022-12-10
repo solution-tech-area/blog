@@ -1,0 +1,7 @@
+Authentication
+---------------
+    - Registration
+    - Login
+    - Dashboard Area
+    - Logout
+    - Forget Password
