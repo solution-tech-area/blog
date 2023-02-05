@@ -1,0 +1,16 @@
+Authentication
+---------------
+    - Registration
+    - Login
+    - Dashboard Area
+    - Logout
+    - Forget Password
+
+
+Registration
+-------------
+- users (table)
+    - name
+    - email
+    - email_verified_at
+    - password
